@@ -3,3 +3,4 @@ this my first modification
 third line from local
 4th line local
 
+remote 4th line
