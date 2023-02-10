@@ -1,3 +1,4 @@
 abcd
 this my first modification
 third line from local
+remote 4th line
