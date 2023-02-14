@@ -6,3 +6,4 @@ third line from local
 remote 4th line
 git main 5th line
 branch1 line
+main branch new line
