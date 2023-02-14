@@ -7,3 +7,4 @@ remote 4th line
 git main 5th line
 branch1 line
 main branch new line
+branch1  new line
